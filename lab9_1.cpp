@@ -27,7 +27,7 @@ int main(){
 	cout << setw(13) << left << 1050.0;
 	cout << setw(13) << left << 100.0;
 	cout << setw(13) << left << 950.0;
-	cout << "PPPP\n";	
+	cout << "PP\n";	
 	
 	return 0;
 }
